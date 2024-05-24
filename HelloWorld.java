@@ -2,7 +2,7 @@ public class HelloWorld
 { 
 	public static void main (String args[])
 	{
-		System.out.print("Hello");
-		System.out.print("How are you");
+		System.out.print("Hello hii");
+		System.out.print("How are you siva");
 	}
 }
